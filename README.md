@@ -18,9 +18,6 @@ Es un programa libre, con licencia GNU/GPL, escrito en PHP, combinable con MySQL
 **Tareas a realizar**
 ------------
 1. Crear una máquina virtual en Amazon EC2. Igual que en la práctica anterior, necesitaremos una máquina Ubuntu Server con 2 GB de capacidad.
-
-![](https://i.imgur.com/gU2pzHo.png)
-
 2. Configurar los puertos que estarán abiertos para poder conectarnos por SSH y para poder acceder por HTTP/HTTPS.
 
 - SSH (TCP) 22
@@ -37,10 +34,10 @@ La clave privada es *UbuntuServerjpadilla.pem*
 https://bitnami.com/stack/drupal/installer
 https://bitnami.com/stack/drupal/README.txt
 
-![](https://i.imgur.com/rt8aqS8.png)
+![](https://i.imgur.com/VAdmnmc.png)
 Lanzando el archivo ejecutable.
 
-![](https://i.imgur.com/VAdmnmc.png)
+![](https://i.imgur.com/dSdZEHw.png)
 Apariencia de la instalación sin interfaz gráfica.
 
 ![](https://i.imgur.com/arvWkN2.png)
