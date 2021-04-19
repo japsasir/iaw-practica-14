@@ -46,8 +46,8 @@ Mensaje de Wordpress tras la instalación.
 
 **Archivos en el repositorio**
 ------------
-1.**README.md** Documentación.
-2.**dru.sh** Script de instalación automática de Drupal.
+1. **README.md** Documentación.
+2. **dru.sh** Script de instalación automática de Drupal.
 
 **Referencias**
 ------------
