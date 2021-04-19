@@ -8,17 +8,12 @@ Ciclo: CFGS Administración de Sistemas Informáticos en Red
 
 **Introducción**
 ------------
-El objetivo de esta práctica es montar Drupal en una instancia de Amazon con la última versión de Ubuntu Server.
+El objetivo de esta práctica es montar Drupal Stack en una instancia de Amazon con la última versión de Ubuntu Server.
 
 **¿Y qué es Drupal?**
-Drupal is a content management platform that allows an individual or community 
-of users to easily publish, manage, and organize a wide variety of content on a 
-website. In general, Drupal is used for community web portals, discussion sites, 
-corporate web sites, intranet applications, personal web sites or blogs, 
-aficionado sites, e-commerce applications, resource directories, and social 
-networking sites. Drupal is easy to extend by plugging in one or more of the 
-dozens of freely available modules.
-https://bitnami.com/
+Drupal (pronunciación IPA en inglés: [druː pʰʊɫ]) es un sistema de gestión de contenidos o CMS (por sus siglas en inglés, Content Management System) libre,1​ modular, multipropósito y muy configurable que permite publicar artículos, imágenes, archivos y que también ofrece la posibilidad de otros servicios añadidos como foros, encuestas, votaciones, blogs, administración de usuarios y permisos. Drupal es un sistema dinámico: en lugar de almacenar sus contenidos en archivos estáticos en el sistema de ficheros del servidor de forma fija, el contenido textual de las páginas y otras configuraciones son almacenados en una base de datos y se editan utilizando un entorno Web.
+
+Es un programa libre, con licencia GNU/GPL, escrito en PHP, combinable con MySQL, desarrollado y mantenido por una activa comunidad de usuarios. Destaca por la calidad de su código y de las páginas generadas, el respeto de los estándares de la web, y un énfasis especial en la usabilidad y consistencia de todo el sistema. 
 
 **Tareas a realizar**
 ------------
@@ -48,7 +43,7 @@ Lanzando el archivo ejecutable.
 ![](https://i.imgur.com/VAdmnmc.png)
 Apariencia de la instalación sin interfaz gráfica.
 
-![](https://i.imgur.com/5svArJg.png)
+![](https://i.imgur.com/arvWkN2.png)
 Mensaje de Drupal tras la instalación.
 
 
