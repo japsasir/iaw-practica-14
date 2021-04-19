@@ -8,8 +8,16 @@ Ciclo: CFGS Administración de Sistemas Informáticos en Red
 
 **Introducción**
 ------------
-El objetivo de esta práctica es montar Drupalen una instancia de Amazon con la última versión de Ubuntu Server.
+El objetivo de esta práctica es montar Drupal en una instancia de Amazon con la última versión de Ubuntu Server.
 
+**¿Y qué es Drupal?**
+Drupal is a content management platform that allows an individual or community 
+of users to easily publish, manage, and organize a wide variety of content on a 
+website. In general, Drupal is used for community web portals, discussion sites, 
+corporate web sites, intranet applications, personal web sites or blogs, 
+aficionado sites, e-commerce applications, resource directories, and social 
+networking sites. Drupal is easy to extend by plugging in one or more of the 
+dozens of freely available modules.
 https://bitnami.com/
 
 **Tareas a realizar**
@@ -37,11 +45,11 @@ https://bitnami.com/stack/drupal/README.txt
 ![](https://i.imgur.com/rt8aqS8.png)
 Lanzando el archivo ejecutable.
 
-![](https://i.imgur.com/dwPcfuD.png)
+![](https://i.imgur.com/VAdmnmc.png)
 Apariencia de la instalación sin interfaz gráfica.
 
 ![](https://i.imgur.com/5svArJg.png)
-Mensaje de Wordpress tras la instalación.
+Mensaje de Drupal tras la instalación.
 
 
 **Archivos en el repositorio**
